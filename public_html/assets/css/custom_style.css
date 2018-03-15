@@ -1,0 +1,4 @@
+.content-wrap section { padding: 25px 0;}
+td, th { text-align: center; }
+@media (min-width: 768px){#page-wrapper {position: inherit;margin: 0 0 0 0px;}}
+@media (min-width: 768px){.footer{left: 0px;}}
